@@ -1,0 +1,2 @@
+rootProject.name='kotlinbottomnavbar'
+include ':app'
